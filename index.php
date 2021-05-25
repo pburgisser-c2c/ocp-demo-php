@@ -1,5 +1,5 @@
 <?php
-  echo "Hello Novelis<br/>";
+  echo "Hello !<br/>";
   echo gethostname();
   echo '<br/>';
   echo php_uname('a'); // maiy output e.g,: sandie
